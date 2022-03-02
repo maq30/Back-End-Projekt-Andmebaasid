@@ -11,5 +11,11 @@ Kasutaja
 
 
 Postitus
+
+
 Like
+
+
 Kommentaar
+
+Jälgijaskond
