@@ -2,8 +2,9 @@
 
 Welcome to the Back-End-Projekt-Andmebaasid wiki!
 
-Team 7 Projekt Andmebaasid - Instagram Liikmed: Sander, Carlos, Gregor, Aavik, Markus, Jana
+Team 7 Projekt Andmebaasid -  Liikmed: Sander, Carlos, Gregor, Aavik, Markus, Jana
 
+Sotsiaalne meedia (Instagram)
 
 Ülesanded:
 
