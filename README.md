@@ -9,19 +9,19 @@ Sotsiaalne meedia (Instagram)
 Ülesanded:
 
 
-Tavakasutaja - Carlos
+- Tavakasutaja - Carlos
 
-Ärikasutaja - Jana
+- Ärikasutaja - Jana
 
-Diagramm FigJamis - Sander
-
-
-Postitus
+- Andmebaas FigJamis - Sander
 
 
-Like
+-Postitus
 
 
-Kommentaar
+-Like
 
-Jälgijaskond
+
+-Kommentaar
+
+-Jälgijaskond
