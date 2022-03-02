@@ -8,6 +8,8 @@ Uudiste lehekülg
 
 Ülesanded:
 
+Figma: https://www.figma.com/file/QMgz5XswUKdP5mO5uiVXxb/FigJam?node-id=0%3A1
+
 
 - Tavakasutaja - Carlos
 
