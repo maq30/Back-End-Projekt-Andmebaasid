@@ -7,7 +7,8 @@ Team 7 Projekt Andmebaasid - Instagram Liikmed: Sander, Carlos, Gregor, Aavik, M
 
 Ülesanded:
 
-Tavakasutaja kohta infot otsida - Carlos
+
+Tavakasutaja
 
 Ärikasutaja - Jana
 
