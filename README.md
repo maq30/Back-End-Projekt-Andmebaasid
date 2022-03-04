@@ -44,7 +44,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Aavik: Kuna ma saan nüüd aru mis wireframe on, oskan ma ka seda kiiremini teha. Rakendaksin seda ka järgmistes projektides.
 - Carlos: tean kuidas analüüsida ülesandeid, et kõigil oleks kergem tiimis
 - Gregor:
-- Jana:Jiras ülesannete jaotamist, samuti githubis õpitut saaks rakendada järgmistes projektides, lisaks wireframe'ide tegemine Figmas.
+- Jana: Jiras ülesannete jaotamist, samuti githubis õpitut saaks rakendada järgmistes projektides, lisaks wireframe'ide tegemine Figmas.
 - Markus: Tutvusin Jiraga esimest korda projekti käigus mida võiks potentsiaalselt kasutada järgmise projekti jaoks.
 - Sander: nüüd tean rohkem andmebaaside kohta ja saan neid teadmisi järgmises projektides kasutada, kui vaja läheb.
 
