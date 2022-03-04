@@ -32,11 +32,11 @@ Me pigem tegime aja planeerimise asemel asju jooksvalt ja kõik läks üpriski s
 
 ## Lühikokkuvõte töökäigust:
 ### ☆ 1. Päev
-Meeskonnaga tutvumine, Projekti ideed, Ülesannete jaotamine, otsisime infot andmebaaside kohta, Githubi loomine, Issuede tegemine
+Meeskonnaga tutvumine, projekti ideed, ülesannete jaotamine, otsisime infot andmebaaside kohta, Githubi loomine ja issuede tegemine.
 ### ★ 2. Päev
-Selge projekti teema olemas, Tahvlisodi, Andmebaasimudeli tegemine, Kasutajaloo(User Story) mudeli tegemine, Wireframe:i tegemine Figmas 
+Selge projekti teema on olemas, tahvlisodi, andmebaasimudeli tegemine, kasutajaloo (User Story) mudeli tegemine ning wireframe'i tegemine Figmas. 
 ### ☆ 3. Päev
-Viimistlused, eneseanalüüs, esitlus
+Viimased viimistlused, eneseanalüüsi kirjutamine ja töö esitlus.
 
 ## Küsimused 
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
