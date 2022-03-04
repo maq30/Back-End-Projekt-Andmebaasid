@@ -10,7 +10,7 @@ Uudiste lehekülje andmebaas.
 - Markus ☆ _TAK-21_
 - Carlos ★
 - Jana ☆ _TA-21_
-- Sander ★
+- Sander ★ -TA-21_
 
 ## Figma
 [Figma wireframe](https://www.figma.com/file/AA3zkQBrau8OYbA5lCWdVH/Uudised?node-id=30%3A6)
@@ -25,7 +25,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Gregor:
 - Jana:
 - Markus:
-- Sander:
+- Sander: nüüd tean rohkem andmebaaside kohta ja saan neid teadmisi järgmises projektides kasutada, kui vaja läheb.
 
 **Üks pehme oskus, mida õppisin ja endas arendasin?**
 - Aavik: 
@@ -33,7 +33,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Gregor:
 - Jana:
 - Markus:
-- Sander:
+- Sander: teiste ideedega arvestamine ja koostöö sujuvus.
 
 **Üks tehniline oskus, mida õppisin ja endas arendasin?**
 - Aavik: 
@@ -41,5 +41,5 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Gregor:
 - Jana:
 - Markus:
-- Sander:
+- Sander: tean nüüd rohkem andmebaaside kohta ning oskan neid kokku panna.
 
