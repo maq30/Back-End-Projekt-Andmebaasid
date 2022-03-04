@@ -10,17 +10,37 @@ Uudiste lehekülje andmebaas.
 - Markus ☆ _TAK-21_
 - Carlos ★ _TAK-20_
 - Jana ☆ _TA-21_
-- Sander ★ -TA-21_
+- Sander ★ _TA-21_
 
-## Figma
+## Töövahendite loetelu:
+### ☆ Figma (FigJam & design file)
 [Figma wireframe](https://www.figma.com/file/AA3zkQBrau8OYbA5lCWdVH/Uudised?node-id=30%3A6)
 
 [Figjam andmebaasi mudel](https://www.figma.com/file/QMgz5XswUKdP5mO5uiVXxb/FigJam?node-id=0%3A1)
 
+### ★ Jira
+[Meie tiim natukene Jiraga tutvumas](https://jakindl.atlassian.net/jira/software/projects/T7/boards/1)
+
+### ☆ GitHub
+### ★ Draw.io
+### ☆ Discord
+### ★ See üks tahvel mis me K208 klassi tõime
+
+## Kas aja planeerimine vastas tegelikkusele? 
+Me pigem tegime aja planeerimise asemel asju jooksvalt ja kõik läks üpriski sujuvalt.
+
+## Lühikokkuvõte töökäigust:
+### ☆ 1. Päev
+Meeskonnaga tutvumine, Projekti ideed, Ülesannete jaotamine, otsisime infot andmebaaside kohta, Githubi loomine, Issuede tegemine
+### ★ 2. Päev
+Selge projekti teema olemas, Tahvlisodi, Andmebaasimudeli tegemine, Kasutajaloo(User Story) mudeli tegemine, Wireframe:i tegemine Figmas 
+### ☆ 3. Päev
+Viimistlused, eneseanalüüs, esitlus
+
 ## Küsimused 
 Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
-- Aavik: 
+- Aavik: Kuna ma saan nüüd aru mis wireframe on, oskan ma ka seda kiiremini teha. Rakendaksin seda ka järgmistes projektides.
 - Carlos: tean kuidas analüüsida ülesandeid, et kõigil oleks kergem tiimis
 - Gregor:
 - Jana:
@@ -28,7 +48,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Sander: nüüd tean rohkem andmebaaside kohta ja saan neid teadmisi järgmises projektides kasutada, kui vaja läheb.
 
 **Üks pehme oskus, mida õppisin ja endas arendasin?**
-- Aavik: 
+- Aavik: Õppisin rohkem tiimitööd teistega tegema.
 - Carlos: Sain juurde julgust teistega rääkimisega ja tean kuidas teistega rohkem arvestada 
 - Gregor:
 - Jana:
@@ -36,7 +56,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Sander: teiste ideedega arvestamine ja koostöö sujuvus.
 
 **Üks tehniline oskus, mida õppisin ja endas arendasin?**
-- Aavik: 
+- Aavik: Tutvusin andmebaasidega ja sain teada mis on wireframe, hakkasin vaikselt ka Jira't lähemalt uudistama.
 - Carlos: sain värskendada ennast andmebaaside suhtes
 - Gregor:
 - Jana:
