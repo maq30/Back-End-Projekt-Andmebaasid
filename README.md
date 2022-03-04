@@ -24,7 +24,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Carlos: tean kuidas analüüsida ülesandeid, et kõigil oleks kergem tiimis
 - Gregor:
 - Jana:
-- Markus:
+- Markus: Tutvusin Jiraga esimest korda projekti käigus mida võiks potentsiaalselt kasutada järgmise projekti jaoks.
 - Sander: nüüd tean rohkem andmebaaside kohta ja saan neid teadmisi järgmises projektides kasutada, kui vaja läheb.
 
 **Üks pehme oskus, mida õppisin ja endas arendasin?**
@@ -32,7 +32,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Carlos: Sain juurde julgust teistega rääkimisega ja tean kuidas teistega rohkem arvestada 
 - Gregor:
 - Jana:
-- Markus:
+- Markus: Arenesin mõtlema ja arvestema iga tiimi liikme vajadusega iga tiimi liikme oskuse põhjal ja jaotada siis ülesandeid nende põhjal. Õppisin töötama ja suhtlema effektiivsemalt ning arendama mõtteid kollektiivselt tiimiga koos.
 - Sander: teiste ideedega arvestamine ja koostöö sujuvus.
 
 **Üks tehniline oskus, mida õppisin ja endas arendasin?**
@@ -40,6 +40,6 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Carlos: sain värskendada ennast andmebaaside suhtes
 - Gregor:
 - Jana:
-- Markus:
+- Markus: Analüüsivõime areng, andmebaaside kohta õppisin uut ning kuidas infosüsteemis otsitakse andmebaasist infot.
 - Sander: tean nüüd rohkem andmebaaside kohta ning oskan neid kokku panna.
 
