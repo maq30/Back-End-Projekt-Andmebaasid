@@ -39,7 +39,6 @@ Selge projekti teema olemas, Tahvlisodi, Andmebaasimudeli tegemine, Kasutajaloo(
 Viimistlused, eneseanalüüs, esitlus
 
 ## Küsimused 
-Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
 - Aavik: Kuna ma saan nüüd aru mis wireframe on, oskan ma ka seda kiiremini teha. Rakendaksin seda ka järgmistes projektides.
 - Carlos: tean kuidas analüüsida ülesandeid, et kõigil oleks kergem tiimis
