@@ -61,5 +61,5 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 - Gregor:
 - Jana:
 - Markus: Analüüsivõime areng, andmebaaside kohta õppisin uut ning kuidas infosüsteemis otsitakse andmebaasist infot.
-- Sander: tean nüüd rohkem andmebaaside kohta ning oskan neid kokku panna.
+- Sander: tean nüüd rohkem andmebaaside kohta ning oskan neid kokku panna ja tutvusin Jira-ga.
 
