@@ -8,7 +8,7 @@ Uudiste lehekülje andmebaas.
 - Aavik ☆ _TAK-21_
 - Gregor ★ _TAK-21_
 - Markus ☆ _TAK-21_
-- Carlos ★
+- Carlos ★ _TAK-20_
 - Jana ☆ _TA-21_
 - Sander ★ -TA-21_
 
@@ -21,7 +21,7 @@ Uudiste lehekülje andmebaas.
 Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
 - Aavik: 
-- Carlos:
+- Carlos: tean kuidas analüüsida ülesandeid, et kõigil oleks kergem tiimis
 - Gregor:
 - Jana:
 - Markus:
@@ -29,7 +29,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 
 **Üks pehme oskus, mida õppisin ja endas arendasin?**
 - Aavik: 
-- Carlos:
+- Carlos: Sain juurde julgust teistega rääkimisega ja tean kuidas teistega rohkem arvestada 
 - Gregor:
 - Jana:
 - Markus:
@@ -37,7 +37,7 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida 
 
 **Üks tehniline oskus, mida õppisin ja endas arendasin?**
 - Aavik: 
-- Carlos:
+- Carlos: sain värskendada ennast andmebaaside suhtes
 - Gregor:
 - Jana:
 - Markus:
