@@ -13,18 +13,19 @@ Uudiste lehekülje andmebaas.
 - Sander ★ _TA-21_
 
 ## Töövahendite loetelu:
-### ☆ Figma (FigJam & design file)
+#### ☆ Figma (FigJam & design file)
 [Figma wireframe](https://www.figma.com/file/AA3zkQBrau8OYbA5lCWdVH/Uudised?node-id=30%3A6)
 
 [Figjam andmebaasi mudel](https://www.figma.com/file/QMgz5XswUKdP5mO5uiVXxb/FigJam?node-id=0%3A1)
 
-### ★ Jira
+#### ★ Jira
 [Meie tiim natukene Jiraga tutvumas](https://jakindl.atlassian.net/jira/software/projects/T7/boards/1)
 
-### ☆ GitHub
-### ★ Draw.io
-### ☆ Discord
-### ★ See üks tahvel mis me K208 klassi tõime
+#### ☆ GitHub
+#### ★ Draw.io
+#### ☆ Discord  ![image](https://user-images.githubusercontent.com/91154227/156729327-95fabd7a-a4f8-4a9a-9098-a36447b46405.png)☆ミ
+
+#### ★ See üks tahvel mis me K208 klassi tõime
 
 ## Kas aja planeerimine vastas tegelikkusele? 
 Me pigem tegime aja planeerimise asemel asju jooksvalt ja kõik läks üpriski sujuvalt.
